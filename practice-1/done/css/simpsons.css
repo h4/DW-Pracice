@@ -1,0 +1,22 @@
+body {
+  padding:0;
+  margin:0;
+}
+.bart {
+  background: url(../img/simpsons/bart.jpg) center no-repeat;
+  height:1000px;
+  width:800px;
+  margin:0 auto;
+  }
+.homer {
+  background: url(../img/simpsons/homer.png) top left no-repeat;
+  }
+.lisa {
+  background: url(../img/simpsons/lisa.gif) right 100px no-repeat;
+  }
+.marge {
+  background: url(../img/simpsons/marge.png) bottom right no-repeat;
+  }
+.maggie {
+  background: url(../img/simpsons/maggie.jpg) center left no-repeat;
+  }
