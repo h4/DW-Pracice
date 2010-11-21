@@ -1,0 +1,48 @@
+body {
+  font: normal 14px/1.5 "Trebuchet MS", Tahoma, Verdana, sans-serif;
+  color: #3E4237;
+  background-color: #FFE8A9;
+  }
+h1 {
+  font-family: Georgia, serif;
+  font-size:96px;
+  font-weight: normal;
+  letter-spacing: -0.1ex;
+  line-height:1;
+  text-align:center;
+  color:#32948A;
+  }
+h2 {
+  font-family: Georgia, serif;
+  font-size:36px;
+  margin: 2em 0px 0;
+  line-height:1;
+  color: #FF6F22;
+  }
+h3 {
+  font-family: Georgia, serif;
+  font-size: 24px;
+  margin: 1em 0px 0 0px;
+  line-height:1;
+  color: #FF6F22;
+  }
+em,
+code {
+  color: #000;
+}
+code {
+  font-family: 'Lucida console', monospace;
+}
+li {
+  list-style:disc;
+  }
+.img {
+  text-align:center;
+  margin: 2em 0 0;
+  }
+.img-title {
+  font-size:11px;
+  text-align:center;
+  margin: 0 0 0;
+  }
+
