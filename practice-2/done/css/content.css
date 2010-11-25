@@ -1,0 +1,35 @@
+.left-menu h2 {
+  color: #1D4088;
+}
+.left-menu img {
+  float: left;
+  margin: 0 5px 0 0;
+}
+.item {
+  overflow: hidden;
+  margin-bottom:2em;
+}
+.item img {
+  float: left;
+  margin: 5px 10px 0 0;
+  padding: 2px;
+  border: solid 1px #1D4088;
+}
+.item .description {
+  overflow: hidden;
+}
+.item h2 {
+  margin: 0;
+}
+.item .author {
+  margin: 0 0 2em;
+  color: #999;
+}
+.sidebar h2 {
+  font-family:Tahoma, Verdana, sans-serif;
+  font-size:14px;
+  font-weight:bold;
+  background:#F2F2F2;
+  border-top:solid 1px #E2E2E2;
+  padding:3px;
+}

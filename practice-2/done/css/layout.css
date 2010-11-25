@@ -1,0 +1,44 @@
+.header {
+  background-color:#3B5998;
+  padding:1em 0;
+  overflow: hidden;
+  border-bottom:solid 1px #1D4088;
+}
+.logo {
+  float: left;
+  padding:1px;
+  border: solid 2px #FFF;
+}
+.top-menu {
+  float: right;
+}
+.wrapper {
+  width:960px;
+  margin:auto;
+  position:relative;
+}
+.left-menu {
+  float: left;
+  width:150px;
+  padding: 0 0 0; 
+}
+.sidebar {
+  float: right;
+  width: 250px;
+  position:relative;
+  top: 40px;
+}
+.content-wrapper {
+  border: solid 1px #1D4088;
+  border-style: none solid;
+  margin-left: 150px;
+  padding: 10px;
+  background:#FCFCFC;
+}
+.content {
+  margin-right: 270px;
+}
+.footer {
+  border-top: solid 1px #1D4088;
+  text-align: center;
+}
