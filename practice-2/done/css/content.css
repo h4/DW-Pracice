@@ -5,15 +5,28 @@
   float: left;
   margin: 0 5px 0 0;
 }
+.v-card {
+  background:#F2F2F2;
+  padding: 2px;
+  margin:10px 0;
+  overflow:hidden;
+}
+.v-card h2 {
+  margin:0;
+}
 .item {
   overflow: hidden;
   margin-bottom:2em;
+  padding:3px;
+  background:#F2F2F2;
+  border-bottom:solid 5px #E3E3E3;
 }
 .item img {
   float: left;
-  margin: 5px 10px 0 0;
+  margin: 0px 10px 0 0;
   padding: 2px;
   border: solid 1px #1D4088;
+  background:#FFF;
 }
 .item .description {
   overflow: hidden;
