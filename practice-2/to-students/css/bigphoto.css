@@ -17,3 +17,6 @@ li {
   vertical-align:top;
   text-align:center;
 }
+.darkbox {
+  background: #000;
+}
