@@ -8,6 +8,7 @@ li {
   margin:10px;
   display: inline-block;
   text-align:center;
+  vertical-align: middle;
 }
 li p { 
   text-align:left;
