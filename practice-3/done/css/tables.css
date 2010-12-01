@@ -1,0 +1,27 @@
+table {
+  border-collapse:collapse;
+}
+td, th {
+  border: solid 1px #000;
+}
+th {
+  vertical-align:bottom;
+  padding:10px;
+}
+td {
+  vertical-align:top;
+  padding:10px;
+}
+.day {
+  text-align:left;
+  vertical-align:top;
+}
+tr {
+  background:#32948A;
+}
+.odd {
+  background: #D9984F;
+}
+.even {
+  background:#FFE8A9;
+}
