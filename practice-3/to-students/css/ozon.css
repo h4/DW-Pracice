@@ -1,0 +1,36 @@
+body {
+  font-family:Tahoma, Helvetica, sans-serif;
+}
+h1 {
+  font-size:28px;
+  color:#2D83C2;
+  font-weight:normal;
+}
+h2 {
+  font-size:12px;
+  margin:0;
+}
+h3 {
+  font-size:14px;
+  margin:0;
+  color:#2E83C3;
+}
+p {
+  font-size:10px;
+  margin:0;
+  color:#363636;
+}
+img {
+  margin:10px 0 20px;
+}
+ul {
+  margin:0;
+  padding:0;
+  list-style:none;
+}
+li {
+  display:inline-block;
+  width:160px;
+  margin:0;
+  padding:0;
+}
