@@ -155,6 +155,6 @@ p=.
 
 # Сохраните файлы _about/index.html_ и _about/experts/index.html_
 
-h3. Создание необязательных атрибутов
-
 h2. Технология CSS-спрайтов (дополнительное задание)
+
+Самостоятельно измените разметку файла шаблона и css-код таким образом, что бы вместо трёх файлов иконок (icons/breadcrumbs-home.gif, icons/breadcrumbs-arrow.gif и icons/naw-arrow.gif использовался файл icons/tl-icons.png).
