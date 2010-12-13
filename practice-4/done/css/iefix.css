@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
+* html .main {
+	width:expression(document.body.clientWidth > 1003? "1002px": "auto" );
+}

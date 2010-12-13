@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font: normal 62.5%/1.5 Tahoma, Geneva, sans-serif;
+	color: #333;
+	background:#FFF url(../img/bg/bg-main.gif);
+	}
+p {
+	font-size: 1.4em;
+	margin-bottom: 1em;
+	}
+h1 {
+	font-size: 2.4em;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height: 1em;
+	margin:0 0 1em;
+	color: #069;
+	}
+h2 {
+	font-size: 1.8em;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height: 1em;
+	margin: 2em 0 1em;
+	color: #069;
+	}
+h3 {
+	font-size: 1.4em;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	line-height: 1em;
+	margin: 2em 0 1em;
+	color: #069;
+	}
+dt {
+	font-size: 1.4em;
+	font-weight:bold;
+	margin: 2em 0 0;
+	}
+dd {
+	font-size: 1.4em;
+	}
