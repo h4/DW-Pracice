@@ -1,0 +1,127 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	min-width:1000px;
+	max-width:1200px;
+}
+.main {
+	margin-right:15px;
+	}
+.menu-top {
+	height:40px;
+	}
+
+/* Шапка
+-------------------------------
+*/
+
+#index .header {
+	height:320px;
+	margin-right:20px;
+	background:url(../img/bg/header-index-bg.png);
+}
+.header {
+	height:200px;
+	margin-right:0;
+	background:url(../img/bg/head-inner.gif) right top no-repeat;
+}
+.header-house-left {
+	height:100%;
+	background:url(../img/bg/header-index-l.png) no-repeat left top;
+}
+.header-house-right {
+	position:relative;
+	right:-20px;
+	height:100%;
+	background:url(../img/bg/header-index-r.png) no-repeat right top;
+}
+
+/* Логотип */
+
+.logo {
+	position:absolute;
+	top: 55px;
+	width:230px;
+	height:134px;
+	overflow:hidden;
+	text-indent:-9999px;
+	}
+.logo span {
+	position:absolute;
+	top:0;
+	left:0;
+	width:230px;
+	height:134px;
+	background:url(../img/logo.gif) no-repeat;
+}
+
+/* Новый стиль загородной жизни */
+
+.newstyle {
+	position:absolute;
+	top: 280px;
+	width:375px;
+	height:55px;
+	overflow:hidden;
+	z-index:1;
+	}
+.newstyle span {
+	position:absolute;
+	top:0;
+	left:0;
+	width:375px;
+	height:55px;
+	background:url(../img/bg/newlife.png) no-repeat;
+}
+
+/* Блок основного содержимого
+-------------------------------
+*/
+
+.content-wrapper {
+	background: #FFF url(../img/bg/bg-content.gif) repeat-y right;
+	}
+.menu-main {
+	width:240px;
+	float:right;
+	padding-bottom:100px;
+	background:url(../img/bg/bg-nav.gif) bottom right no-repeat;
+	}
+.content {
+	margin: 0 250px 0 20px;
+}
+
+/* Нижняя навигация */
+
+.menu-bottom {
+	height:30px;
+	clear:both;
+	margin:10px 0 0;
+	background:url(../img/bg/bg-content-footer.gif) no-repeat bottom right;
+}	
+
+/* Новости и объекты */
+
+.news {
+	width: 22%;
+	float:left;
+}
+.objects {
+	margin-left:25%;
+}
+
+
+/* Подвал
+-------------------------------
+*/
+
+.footer {
+	height:85px;
+	margin: 20px 0 0;
+	padding:10px 10px 0;
+	background:url(../img/bg/bg-footer.gif) top right;
+}
+.footer p {
+	float:left;
+}

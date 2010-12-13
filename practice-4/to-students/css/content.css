@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+.f-left {
+	float:left;
+}
+.f-right {
+	float:right;
+}
+.th {
+	margin: 10px;
+	padding:2px;
+	border:solid 1px #069;
+}
+h1 small {
+	font-size:0.6em;
+	display:block;
+}
+
+/* 
+ * Списки 
+ * ----------------------------------
+ */ 
+
+.content ul {
+	margin: 0 14px 1em;
+}
+
+.content li {
+	font-size:1.2em;
+	padding-left: 10px;
+	background:url(../img/icons/bullet.gif) left 7px no-repeat;
+}
+
+/* 
+ * Хлебные крошки 
+ * ----------------------------------
+ */ 
+
+.breadcrumb {
+	font-size:1.1em;
+}
+
+/* 
+ * Таблица с ценами 
+ * ----------------------------------
+ */ 
+
+.data {
+	font-size: 1.1em;
+	width: 500px;
+	margin: 30px auto;
+	border-collapse: separate;
+	border-left: 1px solid #Fc6;
+}
+.data thead td {
+	text-align: center;
+	font-size: 0.9em;
+	font-weight: bold;
+	padding: 3px;
+	background: #4690d4;
+	border: 1px solid #6699FF;
+	border-bottom-color: #0066CC;
+	border-right-color: #06c;
+	color: #fff;
+}
+.data tbody td {
+	padding: 2px 15px;
+	background: #FFFFCC;
+	border: 1px solid #FFFFFF;
+	border-right-color: #FFcc00;
+	border-bottom-color: #FFcc00;
+}
+.data .odd td {
+	background-color: #FFFFBF;
+}
+
+/* 
+ * Контакты 
+ * ----------------------------------
+ */ 
+

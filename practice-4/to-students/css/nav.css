@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:link {
+	color: #069;
+	}
+a:visited {
+	color:#036;
+}
+a:hover {
+	color:#333;
+}
+
+/*
+ * Главное меню
+ * -------------------------------------
+ */
+
+.menu-main ul {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:10px 20px;
+}	
+.menu-main li {
+	font-size:1.8em;
+	padding-left:15px;
+}
+.menu-main li.current,
+.menu-main li:hover,
+.menu-main li.hover {
+	background:url(../img/icons/nav-arrow.gif) left 10px no-repeat;
+}
+.menu-main a:link,
+.menu-main a:visited {
+	color: #069;
+	text-decoration:none;
+}
+
+/*
+ * Нижнее меню
+ * -------------------------------------
+ */
+
+.menu-bottom ul {
+	text-align:center;
+}
+.menu-bottom li {
+	font-size: 1.2em;
+	display:inline;
+	padding:2px 10px;
+	border-left:solid 1px #069;
+}
+.menu-bottom li.first {
+	border:none;
+}
+/*
+ * Иконки в подвале
+ * -------------------------------------
+ */
+
+.footer .pic {
+	float:right;
+}
+.footer .pic a {
+	background:url(../img/icons/pic-footer.jpg) no-repeat;
+}
+.footer .pic a.mail {
+	display:inline-block;
+	width:126px;
+	height:85px;
+	background-position:0 0;
+}
+.footer .pic a.mail:hover {
+	background-position:-126px 0;
+}
+
+.footer .pic a.map {
+	display:inline-block;
+	width:93px;
+	height:85px;
+	background-position:-33px -85px;
+}
+.footer .pic a.map:hover {
+	background-position:-159px -85px;
+}
+
+/*
+ * Верхнее меню
+ * -------------------------------------
+ */
