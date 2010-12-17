@@ -93,6 +93,6 @@ h2. Создание версии для печати
 
 # Создайте новый css-файл и сохраните его под именем _print.css_ в каталоге _css_
 # Задайте стилевые описания для элементов body, h1...h3, .news и .objects, руководствуясь скриншотом attachment:index-print.png
-# Отключите отображение блоков .menu-top, .menu-main, .menu-bottom и .footer
+# Отключите отображение блоков .menu-top, .header, .menu-main, .menu-bottom, .footer, .logo, .newstyle
 # Подключите таблицу стилей к файлу _index.html_ и _Templates/main-template.dwt_. При подключении укажите параметр _Media: print_
 # Откройте файл _index.html_ в браузере и выполните команду _File > Print preview_ или _Файл > Предварительный просмотр_
