@@ -100,7 +100,7 @@ h3. Создание заготовки внутренней страницы
 p=. 
 !tl-inner-header.png!
 
-# Удалите блоки _<div class="news" />_ и <div class="objects" />
+# Удалите блоки _<div class="news" />_ и _<div class="objects" />_
 # Добавьте абзац перед заголовком страницы абзац и заполните его в соответствии со схемой attachment:tl-breadcruimb.png
 
 p=. 
