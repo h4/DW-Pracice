@@ -80,12 +80,13 @@ h2. Вложенные шаблоны
 # Выполните команду _File > Save as template_
 # Укажите название нового шаблона _townhouses_
 # Включите отображение вложенного меню
-# Создайте разметку страницы внутри редактируемой области _content_ руководствуюсь схемой attachmenr:townhouse-scheme.png  
-# Создайте внутри редактируемой области _content_ четыре редактируемые области _description_, _firstFloor_, _secondFloor_ и _additionalInflo_ руководствуюясь схемой attachmenr:townhouses-regions-scheme.png  
+# Создайте разметку страницы внутри редактируемой области _content_ руководствуюсь схемой attachment:townhouse-scheme.png  
+# Создайте внутри редактируемой области _content_ четыре редактируемые области _description_, _firstFloor_, _secondFloor_ и _additionalInflo_ руководствуюясь схемой attachment:townhouses-regions-scheme.png  
+# Создайте необходимые дополнительные классы в файле _content.css_
 # Оредактируйте «хлебный крошки» руководствуюясь схемой attachmenr:townhouses-bc-scheme.png
 # Сохраните файл _townhouses.dwt_
 # Создайте файл на основе шаблона townhouses и сохраните его под именем _townhouses/versale/index.html_
-# Наполните файл содержимым, руководствуюясь скрингшотом attachment:versale.png  
+# Наполните файл содержимым, руководствуюясь скриншотом attachment:versale.png  
 
 h2. Создание версии для печати
 
